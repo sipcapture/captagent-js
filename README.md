@@ -1,6 +1,9 @@
+[![Logo](https://avatars0.githubusercontent.com/u/6690913?v=3&s=100)](http://sipcapture.org)
+
 # captagent-js
 Captagent Sample implementation in NodeJS w/ HEP3 and ES Bulk API Support
 
+For more information about HEP and SIPCAPTURE Projects, please visit [http://sipcapture.org](http://sipcapture.org)
 
 ### Requirements:
 ```
@@ -17,7 +20,7 @@ Captagent Sample implementation in NodeJS w/ HEP3 and ES Bulk API Support
 	ES:   
 		nodejs captagent-es.js -debug true -ES 'https://test.facetflow.io:443' -t 15
 
-### Daemonize using forever:
+### Daemonize process:
 
 	npm install forever -g
 	forever start captagent.js
