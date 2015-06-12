@@ -1,9 +1,11 @@
 [![Logo](https://avatars0.githubusercontent.com/u/6690913?v=3&s=100)](http://sipcapture.org)
 
 # captagent-js
-**PROTOTYPE** Captagent sample implementation in NodeJS w/ HEP3 and ES Bulk API Support.
+This is a fully working **PROTOTYPE** Captagent implementation in NodeJS w/ HEP3 and ES Bulk API Support output.
 
-This agent can sniff SIP traffic and send HEP3 encapsulated packets to HOMER/PCAPTURE and optionally as JSON Packets to an Elasticsearch cluster for indexing. HEP3/EEP support is provided by nodejs module [HEP-js](https://www.npmjs.com/package/hep-js)
+Captagent-js can sniff SIP packets and send HEP3 encapsulated packets to a HOMER/PCAPTURE server - It can optionally send JSON parsed SIP packets to an Elasticsearch cluster for indexing. 
+
+HEP3/EEP functionality support is provided by nodejs module [HEP-js](https://www.npmjs.com/package/hep-js)
 
 For more information about HEP and SIPCAPTURE Projects, please visit [http://sipcapture.org](http://sipcapture.org)
 
