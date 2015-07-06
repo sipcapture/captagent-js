@@ -1,4 +1,4 @@
-[![Logo](https://avatars0.githubusercontent.com/u/6690913?v=3&s=100)](http://sipcapture.org)
+[![Logo](https://camo.githubusercontent.com/aa3bd3f9a7121637f58af5d2fee969815b250737/687474703a2f2f692e696d6775722e636f6d2f336b4549522e706e67)](http://sipcapture.org)
 
 # captagent-js
 This is a fully working **PROTOTYPE** Captagent implementation in NodeJS w/ HEP3 and ES Bulk API Support output.
