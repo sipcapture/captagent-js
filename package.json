@@ -1,0 +1,35 @@
+{
+  "name": "captagent-js",
+  "version": "0.3.0",
+  "description": "HEP3 SIP Capture Agent for Node.JS",
+  "main": "captagent.js",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/sipcapture/captagent-js"
+  },
+  "keywords": [
+    "hep",
+    "hep3",
+    "encapsulation",
+    "packet",
+    "pcap",
+    "homer",
+    "sipcapture",
+    "pcapture",
+    "sip",
+    "voip",
+    "captagent",
+    "monitoring",
+  ],
+  "author": "Lorenzo Mangani <lorenzo.mangani@gmail.com> (http://sipcapture.org/)",
+  "license": "GPLv2",
+  "bugs": {
+    "url": "https://github.com/sipcapture/captagent-js/issues"
+  },
+  "devDependencies": {
+    "cap": "*",
+    "sipcore": "*",
+    "hep-js": "*",
+    "elasticsearch": "*"
+  }
+}
