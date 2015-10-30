@@ -19,10 +19,13 @@
     "sip",
     "voip",
     "captagent",
-    "monitoring",
+    "monitoring"
   ],
   "author": "Lorenzo Mangani <lorenzo.mangani@gmail.com> (http://sipcapture.org/)",
   "license": "GPLv2",
+  "engines": {
+    "node": ">= 0.10"
+  },
   "bugs": {
     "url": "https://github.com/sipcapture/captagent-js/issues"
   },
