@@ -1,6 +1,6 @@
 {
   "name": "captagent-js",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "HEP3 SIP Capture Agent for Node.JS",
   "main": "captagent.js",
   "repository": {
@@ -32,7 +32,7 @@
   "dependencies": {
     "cap": "*",
     "sipcore": "*",
-    "hep-js": "*",
+    "hep-js": "sipcapture/hep-js"
     "elasticsearch": "*"
   }
 }
