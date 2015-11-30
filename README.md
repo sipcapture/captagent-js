@@ -1,4 +1,5 @@
 [![Dependency Status](https://david-dm.org/sipcapture/captagent-js.svg)](https://david-dm.org/sipcapture/captagent-js) 
+![HEP](https://img.shields.io/badge/powered%20by-HEP-blue.svg)
 
 [![Logo](https://camo.githubusercontent.com/aa3bd3f9a7121637f58af5d2fee969815b250737/687474703a2f2f692e696d6775722e636f6d2f336b4549522e706e67)](http://sipcapture.org)
 
